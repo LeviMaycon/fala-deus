@@ -1,0 +1,11 @@
+{
+    "/api": {
+      "target": "https://bible-edge.onrender.com",
+      "secure": false,
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/": ""
+      }
+    }
+}
+  
